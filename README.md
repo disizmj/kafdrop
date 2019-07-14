@@ -20,6 +20,13 @@ After cloning the repository, building should just be a matter of running a stan
 $ mvn clean package
 ```
 
+## Binary
+If you do not want to build, use the target directory anf follow below instructions
+
+```
+$ cd target/
+```
+
 ## Running Stand Alone
 
 The build process creates an executable JAR file.  
